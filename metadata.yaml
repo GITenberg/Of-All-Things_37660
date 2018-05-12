@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6339
     wikipedia: http://en.wikipedia.org/wiki/Robert_Benchley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37660#Of-All-Things
 gutenberg_issued: '2011-10-07'
 gutenberg_type: Text
 identifiers:
